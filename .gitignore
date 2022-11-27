@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # avoid images
-.jpg
-.png
+**/*.jpg
+**/*.png
+.DS_Store
